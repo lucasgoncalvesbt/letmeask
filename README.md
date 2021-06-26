@@ -2,8 +2,10 @@
     <img src="./src/assets/images/logo.svg">
 </h1>
 
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a3398db-4f8a-40b4-aa1c-5754cd2829dd/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a3398db-4f8a-40b4-aa1c-5754cd2829dd/Untitled.png)
+
 <h3 align="center">
-    <a href="#">Acessar a demonstração</a>
+    <a href="https://letmeask-f7651.web.app">Acessar a demonstração</a>
 <h3 >
 
 # Indice
@@ -23,6 +25,7 @@ O projeto **Letmeask** é uma aplicação web de perguntas e respostas desenvolv
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [ReactJS](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 
 ---
@@ -46,4 +49,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-Desenvolvido 💜 por Lucas Gonçalves Belo Torquato
+Desenvolvido de 💜 por Lucas Gonçalves Belo Torquato
