@@ -2,8 +2,6 @@
     <img src="./src/assets/images/logo.svg">
 </h1>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a3398db-4f8a-40b4-aa1c-5754cd2829dd/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a3398db-4f8a-40b4-aa1c-5754cd2829dd/Untitled.png)
-
 <h3 align="center">
     <a href="https://letmeask-f7651.web.app">Acessar a demonstração</a>
 <h3 >
